@@ -1,4 +1,4 @@
-# RMBphotogps
+# RMBgpsphoto
 Bash script to open Google Maps to coordinates in a photo's meta-data
 
 I am sure there are many out there, but I couldn't find one.  So I cobbled this one together.  You could probably reduce it to fewer actual lines.
